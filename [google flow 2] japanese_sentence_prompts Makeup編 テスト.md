@@ -1,11 +1,5 @@
 # Flow用プロンプトセンテンス辞書 メイクアップ編
-
-> 画像は `images/makeup/` フォルダにまとめています。
-> 各項目のファイル名は `images/makeup/<連番2桁>_<スラッグ>_<画像連番2桁>.jpeg` の形式です。
-> （例：①ナチュラル → `images/makeup/01_natural_01.jpeg` 〜 `01_natural_04.jpeg`）
-
 ---
-
 ## Makeup — プロンプト通過テスト
 
 ### ■ナチュラル 
