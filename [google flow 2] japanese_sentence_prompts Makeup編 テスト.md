@@ -15,6 +15,7 @@
 透明感のある肌に、淡いアイメイクと自然なピンクのリップを合わせた清楚なメイク。
 ```
 <table> <tr> <td width="25%"><img src="images/makeup/02_seiso_01.jpeg" alt="清楚1" width="100%"></td><td width="25%"><img src="images/makeup/02_seiso_02.jpeg" alt="清楚2" width="100%"></td><td width="25%"><img src="images/makeup/02_seiso_03.jpeg" alt="清楚3" width="100%"></td><td width="25%"><img src="images/makeup/02_seiso_04.jpeg" alt="清楚4" width="100%"></td> </tr> </table>
+-
 ##### ■上品
 ```
 整った肌に、繊細なアイメイクと自然なリップを合わせた上品で洗練されたメイク。
