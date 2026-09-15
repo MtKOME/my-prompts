@@ -8,7 +8,8 @@
 ```
 自然な肌感を生かした、薄く控えめなナチュラルメイク。
 ```
-![ナチュラル1](images/makeup/01_natural_01.jpeg) ![ナチュラル2](images/makeup/01_natural_02.jpeg) ![ナチュラル3](images/makeup/01_natural_03.jpeg) ![ナチュラル4](images/makeup/01_natural_04.jpeg)
+<table> <tr> <td width="25%"><img src="images/makeup/01_natural_01.jpeg" alt="ナチュラル1" width="100%"></td><td width="25%"><img src="images/makeup/01_natural_02.jpeg" alt="ナチュラル2" width="100%"></td><td width="25%"><img src="images/makeup/01_natural_03.jpeg" alt="ナチュラル3" width="100%"></td><td width="25%"><img src="images/makeup/01_natural_04.jpeg" alt="ナチュラル4" width="100%"></td> </tr> </table>
+
 ##### ■清楚
 ```
 透明感のある肌に、淡いアイメイクと自然なピンクのリップを合わせた清楚なメイク。
