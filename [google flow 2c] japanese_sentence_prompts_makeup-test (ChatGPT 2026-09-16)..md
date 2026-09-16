@@ -247,27 +247,43 @@
 
 ### 眉
 
+
 * **平行眉**
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-1-01_heikou_01.jpeg" alt="平行眉1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-1-01_heikou_02.jpeg" alt="平行眉2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-1-01_heikou_03.jpeg" alt="平行眉3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-1-01_heikou_04.jpeg" alt="平行眉4" width="100%"></td> </tr> </table>
+
 ```text
 眉は眉山を強調せず、直線的な平行眉に整えている。
 ```
 
 * **グラデーション眉**
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-1-02_gradation_01.jpeg" alt="グラデーション眉1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-1-02_gradation_02.jpeg" alt="グラデーション眉2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-1-02_gradation_03.jpeg" alt="グラデーション眉3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-1-02_gradation_04.jpeg" alt="グラデーション眉4" width="100%"></td> </tr> </table>
+  
 ```text
 眉頭から眉尻にかけて自然に濃くなるグラデーション眉にしている。
 ```
 
 * **アーチ眉**
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-1-03_arch_01.jpeg" alt="アーチ眉1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-1-03_arch_02.jpeg" alt="アーチ眉2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-1-03_arch_03.jpeg" alt="アーチ眉3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-1-03_arch_04.jpeg" alt="アーチ眉4" width="100%"></td> </tr> </table>
+
 ```text
 眉は緩やかな曲線を描く自然なアーチ眉に整えている。
 ```
 
 * **太眉**
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-1-04_futo_01.jpeg" alt="太眉1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-1-04_futo_02.jpeg" alt="太眉2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-1-04_futo_03.jpeg" alt="太眉3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-1-04_futo_04.jpeg" alt="太眉4" width="100%"></td> </tr> </table>
+
 ```text
 眉は自然な毛流れを残した、やや太めで存在感のある眉にしている。
 ```
 
 * **細眉**
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-1-05_hoso_01.jpeg" alt="細眉1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-1-05_hoso_02.jpeg" alt="細眉2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-1-05_hoso_03.jpeg" alt="細眉3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-1-05_hoso_04.jpeg" alt="細眉4" width="100%"></td> </tr> </table>
+
 ```text
 眉は細めに整え、すっきりとした印象にしている。
 ```
