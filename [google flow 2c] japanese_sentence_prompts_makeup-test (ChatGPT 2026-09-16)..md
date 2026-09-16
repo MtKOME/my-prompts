@@ -476,12 +476,16 @@
 
 #### ■ブラウン系
 
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-4_01_naturalbrown-cc_01.jpeg" alt="ブラウン系1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-4_01_naturalbrown-cc_02.jpeg" alt="ブラウン系2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-4_01_naturalbrown-cc_03.jpeg" alt="ブラウン系3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-4_01_naturalbrown-cc_04.jpeg" alt="ブラウン系4" width="100%"></td> </tr> </table>
+
 ```text
 カラコンは自然なブラウン系を使い、裸眼になじむ柔らかな瞳に仕上げている。
 ```
 
 
 #### ■グレー系
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-4_02_glay-cc_01.jpeg" alt="グレー系1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-4_02_glay-cc_02.jpeg" alt="グレー系2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-4_02_glay-cc_03.jpeg" alt="グレー系3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-4_02_glay-cc_04.jpeg" alt="グレー系4" width="100%"></td> </tr> </table>
 
 ```text
 カラコンは透明感のあるグレー系を使い、涼しげで印象的な瞳に仕上げている。
@@ -490,6 +494,8 @@
 
 #### ■ヘーゼル系
 
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-4_03_hazel-cc_01.jpeg" alt="ヘーゼル系1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-4_03_hazel-cc_02.jpeg" alt="ヘーゼル系2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-4_03_hazel-cc_03.jpeg" alt="ヘーゼル系3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-4_03_hazel-cc_04.jpeg" alt="ヘーゼル系4" width="100%"></td> </tr> </table>
+
 ```text
 カラコンは明るいヘーゼル系を使い、色素が薄く見える透明感のある瞳に仕上げている。
 ```
@@ -497,32 +503,16 @@
 
 #### ■オリーブ系
 
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-4_04_olive-cc_01.jpeg" alt="オリーブ系1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-4_04_olive-cc_02.jpeg" alt="オリーブ系2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-4_04_olive-cc_03.jpeg" alt="オリーブ系3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-4_04_olive-cc_04.jpeg" alt="オリーブ系4" width="100%"></td> </tr> </table>
+
 ```text
 カラコンはブラウンになじむオリーブ系を使い、自然な抜け感のある瞳に仕上げている。
 ```
 
 
-#### ■ぼかしフチ
-
-```text
-カラコンは輪郭をぼかしたデザインにして、瞳になじむ柔らかな印象に仕上げている。
-```
-
-
-#### ■細フチ
-
-```text
-カラコンは細いフチのデザインにして、瞳の輪郭を自然に際立たせている。
-```
-
-
-#### ■水光カラコン
-
-```text
-カラコンは光が入ったようなハイライトのあるデザインにして、潤んだような立体感のある瞳に仕上げている。
-```
-
 #### ■大きめカラコン
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-4_05_ookii-cc_01.jpeg" alt="大きめ1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-4_05_ookii-cc_02.jpeg" alt="大きめ2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-4_05_ookii-cc_03.jpeg" alt="大きめ3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-4_05_ookii-cc_04.jpeg" alt="大きめ4" width="100%"></td> </tr> </table>
 
 ```text
 カラコンは着色部分がやや大きめのデザインにして、瞳を大きく印象的に見せている。
