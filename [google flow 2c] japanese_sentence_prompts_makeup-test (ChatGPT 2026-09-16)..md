@@ -37,10 +37,9 @@
 
 > **狙い**:肌の質感や自然な血色、顔立ちの陰影を活かし、化粧をしていても「素の魅力」が前面に出る仕上がりにする。
 
-
 <table>
 <tr>
-<td width="25%"><img src="images/makeup/mkup-01_natural_01.jpeg" alt="ナチュラル1" width="100%"></td><td width="25%"><img src="images/makeup/mkup-01_natural_02.jpeg" alt="ナチュラル2" width="100%"></td><td width="25%"><img src="images/makeup/mkup-01_natural_03.jpeg" alt="ナチュラル3" width="100%"></td><td width="25%"><img src="images/makeup/mkup-01_natural_04.jpeg" alt="ナチュラル4" width="100%"></td>
+<td width="25%"><img src="images/makeup2/mkup-01_natural_01.jpeg" alt="ナチュラル1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-01_natural_02.jpeg" alt="ナチュラル2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-01_natural_03.jpeg" alt="ナチュラル3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-01_natural_04.jpeg" alt="ナチュラル4" width="100%"></td>
 </tr>
 </table>
 
@@ -60,7 +59,7 @@
 
 <table>
 <tr>
-<td width="25%"><img src="images/makeup/mkup-02_seiso_01.jpeg" alt="清楚1" width="100%"></td><td width="25%"><img src="images/makeup/mkup-02_seiso_02.jpeg" alt="清楚2" width="100%"></td><td width="25%"><img src="images/makeup/mkup-02_seiso_03.jpeg" alt="清楚3" width="100%"></td><td width="25%"><img src="images/makeup/mkup-02_seiso_04.jpeg" alt="清楚4" width="100%"></td>
+<td width="25%"><img src="images/makeup2/mkup-02_seiso_01.jpeg" alt="清楚1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-02_seiso_02.jpeg" alt="清楚2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-02_seiso_03.jpeg" alt="清楚3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-02_seiso_04.jpeg" alt="清楚4" width="100%"></td>
 </tr>
 </table>
 
@@ -80,7 +79,7 @@
 
 <table>
 <tr>
-<td width="25%"><img src="images/makeup/mkup-03_jyouhin_01.jpeg" alt="上品1" width="100%"></td><td width="25%"><img src="images/makeup/mkup-03_jyouhin_02.jpeg" alt="上品2" width="100%"></td><td width="25%"><img src="images/makeup/mkup-03_jyouhin_03.jpeg" alt="上品3" width="100%"></td><td width="25%"><img src="images/makeup/mkup-03_jyouhin_04.jpeg" alt="上品4" width="100%"></td>
+<td width="25%"><img src="images/makeup2/mkup-03_jyouhin_01.jpeg" alt="上品1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-03_jyouhin_02.jpeg" alt="上品2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-03_jyouhin_03.jpeg" alt="上品3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-03_jyouhin_04.jpeg" alt="上品4" width="100%"></td>
 </tr>
 </table>
 
@@ -100,7 +99,7 @@
 
 <table>
 <tr>
-<td width="25%"><img src="images/makeup/mkup-04_feminine_01.jpeg" alt="フェミニン1" width="100%"></td><td width="25%"><img src="images/makeup/mkup-04_feminine_02.jpeg" alt="フェミニン2" width="100%"></td><td width="25%"><img src="images/makeup/mkup-04_feminine_03.jpeg" alt="フェミニン3" width="100%"></td><td width="25%"><img src="images/makeup/mkup-04_feminine_04.jpeg" alt="フェミニン4" width="100%"></td>
+<td width="25%"><img src="images/makeup2/mkup-04_feminine_01.jpeg" alt="フェミニン1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-04_feminine_02.jpeg" alt="フェミニン2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-04_feminine_03.jpeg" alt="フェミニン3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-04_feminine_04.jpeg" alt="フェミニン4" width="100%"></td>
 </tr>
 </table>
 
@@ -120,10 +119,9 @@
 
 <table>
 <tr>
-<td width="25%"><img src="images/makeup/mkup-05_hanayaka_01.jpeg" alt="華やか1" width="100%"></td><td width="25%"><img src="images/makeup/mkup-05_hanayaka_02.jpeg" alt="華やか2" width="100%"></td><td width="25%"><img src="images/makeup/mkup-05_hanayaka_03.jpeg" alt="華やか3" width="100%"></td><td width="25%"><img src="images/makeup/mkup-05_hanayaka_04.jpeg" alt="華やか4" width="100%"></td>
+<td width="25%"><img src="images/makeup2/mkup-05_hanayaka_01.jpeg" alt="華やか1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-05_hanayaka_02.jpeg" alt="華やか2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-05_hanayaka_03.jpeg" alt="華やか3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-05_hanayaka_04.jpeg" alt="華やか4" width="100%"></td>
 </tr>
 </table>
-
 
 ``
 華やかな印象のメイクに仕上げている。肌は明るく均一に整え、光を受けたときにツヤが際立つ仕上がりにしている。眉は輪郭をくっきりと描き、はっきりとした存在感を出している。目元にはラメや輝きのある色を使い、視線を引きつけるコントラストをつけている。頬には発色のよい色をやや広めに入れ、血色をはっきりと出している。唇は発色の強い色をしっかりとのせ、印象的な口元にしている。
@@ -141,7 +139,7 @@
 
 <table>
 <tr>
-<td width="25%"><img src="images/makeup/mkup-06_otonappoi_01.jpeg" alt="大人っぽい1" width="100%"></td><td width="25%"><img src="images/makeup/mkup-06_otonappoi_02.jpeg" alt="大人っぽい2" width="100%"></td><td width="25%"><img src="images/makeup/mkup-06_otonappoi_03.jpeg" alt="大人っぽい3" width="100%"></td><td width="25%"><img src="images/makeup/mkup-06_otonappoi_04.jpeg" alt="大人っぽい4" width="100%"></td>
+<td width="25%"><img src="images/makeup2/mkup-06_otonappoi_01.jpeg" alt="大人っぽい1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-06_otonappoi_02.jpeg" alt="大人っぽい2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-06_otonappoi_03.jpeg" alt="大人っぽい3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-06_otonappoi_04.jpeg" alt="大人っぽい4" width="100%"></td>
 </tr>
 </table>
 
