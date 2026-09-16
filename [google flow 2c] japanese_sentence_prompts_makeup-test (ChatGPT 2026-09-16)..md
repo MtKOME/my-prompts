@@ -40,7 +40,7 @@
 
 <table>
 <tr>
-<td width="25%"><img src="images/makeup/01_natural_01.jpeg" alt="ナチュラル1" width="100%"></td><td width="25%"><img src="images/makeup/01_natural_02.jpeg" alt="ナチュラル2" width="100%"></td><td width="25%"><img src="images/makeup/01_natural_03.jpeg" alt="ナチュラル3" width="100%"></td><td width="25%"><img src="images/makeup/01_natural_04.jpeg" alt="ナチュラル4" width="100%"></td>
+<td width="25%"><img src="images/makeup/mkup-01_natural_01.jpeg" alt="ナチュラル1" width="100%"></td><td width="25%"><img src="images/makeup/mkup-01_natural_02.jpeg" alt="ナチュラル2" width="100%"></td><td width="25%"><img src="images/makeup/mkup-01_natural_03.jpeg" alt="ナチュラル3" width="100%"></td><td width="25%"><img src="images/makeup/mkup-01_natural_04.jpeg" alt="ナチュラル4" width="100%"></td>
 </tr>
 </table>
 
@@ -58,6 +58,12 @@
 
 > **狙い**:肌や眉、目元、唇を整えて雑味を抑え、明るく清潔で端正な顔立ちに見せる。
 
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/mkup-02_seiso_01.jpeg" alt="清楚1" width="100%"></td><td width="25%"><img src="images/makeup/mkup-02_seiso_02.jpeg" alt="清楚2" width="100%"></td><td width="25%"><img src="images/makeup/mkup-02_seiso_03.jpeg" alt="清楚3" width="100%"></td><td width="25%"><img src="images/makeup/mkup-02_seiso_04.jpeg" alt="清楚4" width="100%"></td>
+</tr>
+</table>
+
 ``
 清楚な印象のメイクに仕上げている。肌の色ムラやくすみを整え、清潔感のある明るく均一な質感にしている。眉は毛流れの乱れをなくし、自然な形に描いている。目元はアイラインを細く引き、アイシャドウの色を控えめにしている。頬には血色を補うように、淡い色のチークを薄く広げている。唇は色ムラをなくし、淡い色で仕上げている。
 ``
@@ -71,6 +77,12 @@
 > **意味**:派手さに頼らず、色・質感・形が整った洗練された印象。
 
 > **狙い**:メイクの各要素を過度に主張させず、丁寧に調和させることで、落ち着きと品格のある顔立ちに仕上げる。
+
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/mkup-03_jyouhin_01.jpeg" alt="上品1" width="100%"></td><td width="25%"><img src="images/makeup/mkup-03_jyouhin_02.jpeg" alt="上品2" width="100%"></td><td width="25%"><img src="images/makeup/mkup-03_jyouhin_03.jpeg" alt="上品3" width="100%"></td><td width="25%"><img src="images/makeup/mkup-03_jyouhin_04.jpeg" alt="上品4" width="100%"></td>
+</tr>
+</table>
 
 ``
 上品な印象のメイクに仕上げている。肌の質感をなめらかに整え、ツヤやカバー感を主張させすぎないようにしている。眉は形と色を控えめにまとめ、目元や唇と釣り合う太さに整えている。目元はアイシャドウの色を一色でまとめ、輪郭をぼかして仕上げている。頬のチークは肌になじむ色を薄く重ね、輪郭をぼかして入れている。唇は肌全体の色味に近い、落ち着いた色でまとめている。
@@ -86,6 +98,12 @@
 
 > **狙い**:柔らかな色、丸みのある表現、自然な血色や艶を使い、顔全体を優しく女性らしく見せる。
 
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/mkup-04_feminine_01.jpeg" alt="フェミニン1" width="100%"></td><td width="25%"><img src="images/makeup/mkup-04_feminine_02.jpeg" alt="フェミニン2" width="100%"></td><td width="25%"><img src="images/makeup/mkup-04_feminine_03.jpeg" alt="フェミニン3" width="100%"></td><td width="25%"><img src="images/makeup/mkup-04_feminine_04.jpeg" alt="フェミニン4" width="100%"></td>
+</tr>
+</table>
+
 ``
 フェミニンな印象のメイクに仕上げている。肌はツヤを残しながら血色感を加え、ふんわりとした質感に仕上げている。眉は直線的にせず、緩やかな丸みを持たせて描いている。目元は淡いピンクやローズ系の色を使い、丸みのある形でまとめている。頬には丸くチークをふんわりとのせ、頬全体を優しく色づけている。唇は柔らかなツヤ感のあるピンク系の色で仕上げている。
 ``
@@ -100,6 +118,13 @@
 
 > **狙い**:発色、艶、輝き、陰影、コントラストなどを適度に強め、顔立ちを明るく印象的に見せる。
 
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/mkup-05_hanayaka_01.jpeg" alt="華やか1" width="100%"></td><td width="25%"><img src="images/makeup/mkup-05_hanayaka_02.jpeg" alt="華やか2" width="100%"></td><td width="25%"><img src="images/makeup/mkup-05_hanayaka_03.jpeg" alt="華やか3" width="100%"></td><td width="25%"><img src="images/makeup/mkup-05_hanayaka_04.jpeg" alt="華やか4" width="100%"></td>
+</tr>
+</table>
+
+
 ``
 華やかな印象のメイクに仕上げている。肌は明るく均一に整え、光を受けたときにツヤが際立つ仕上がりにしている。眉は輪郭をくっきりと描き、はっきりとした存在感を出している。目元にはラメや輝きのある色を使い、視線を引きつけるコントラストをつけている。頬には発色のよい色をやや広めに入れ、血色をはっきりと出している。唇は発色の強い色をしっかりとのせ、印象的な口元にしている。
 ``
@@ -113,6 +138,12 @@
 > **意味**:幼さや可愛らしさを抑え、落ち着きや成熟した雰囲気を感じさせる印象。
 
 > **狙い**:落ち着いた色調や陰影、洗練された輪郭表現を使い、顔立ちを成熟した印象に整える。
+
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/mkup-06_otonappoi_01.jpeg" alt="大人っぽい1" width="100%"></td><td width="25%"><img src="images/makeup/mkup-06_otonappoi_02.jpeg" alt="大人っぽい2" width="100%"></td><td width="25%"><img src="images/makeup/mkup-06_otonappoi_03.jpeg" alt="大人っぽい3" width="100%"></td><td width="25%"><img src="images/makeup/mkup-06_otonappoi_04.jpeg" alt="大人っぽい4" width="100%"></td>
+</tr>
+</table>
 
 ``
 大人っぽい印象のメイクに仕上げている。肌は落ち着いた自然なツヤを残し、顔立ちの陰影が自然に見える質感に整えている。眉はやや直線的に整え、眉尻まで輪郭をすっきりと見せている。目元は落ち着いた色のアイシャドウで陰影を加え、目の輪郭を引き締めている。頬のチークは色を抑え、頬骨に沿って薄く入れている。唇は深みのある落ち着いた色で、輪郭を整えて仕上げている。
