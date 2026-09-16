@@ -159,6 +159,8 @@
 
 ### ■韓国風
 
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-2-01_kankokufuu_01.jpeg" alt="韓国風1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-01_kankokufuu_02.jpeg" alt="韓国風2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-01_kankokufuu_03.jpeg" alt="韓国風3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-01_kankokufuu_04.jpeg" alt="韓国風4" width="100%"></td> </tr> </table>
+
 ``
 韓国風のメイクに仕上げている。肌は均一で透明感のあるツヤ肌に整えている。眉は眉頭から眉尻にかけて自然に濃くなるグラデーション眉にしている。アイシャドウはピーチブラウン系の柔らかなグラデーションでまとめている。唇は内側をやや濃く、外側に向かって淡くなるグラデーションリップに仕上げている。
 ``
@@ -168,6 +170,8 @@
 ```
 
 ### ■地雷系
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-2-02_jiraikei_01.jpeg" alt="地雷系1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-02_jiraikei_02.jpeg" alt="地雷系2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-02_jiraikei_03.jpeg" alt="地雷系3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-02_jiraikei_04.jpeg" alt="地雷系4" width="100%"></td> </tr> </table>
 
 ``
 地雷系のメイクに仕上げている。肌は明るく透明感のある質感に整えている。目の下から頬にかけて赤みのあるチークを入れている。涙袋には明るいハイライトを入れて立体感を出している。アイメイクは赤みのある色を取り入れて目元を強調している。唇は赤みのあるツヤリップに仕上げている。
@@ -179,6 +183,8 @@
 
 ### ■量産型
 
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-2-03_ryousangata_01.jpeg" alt="量産型1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-03_ryousangata_02.jpeg" alt="量産型2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-03_ryousangata_03.jpeg" alt="量産型3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-03_ryousangata_04.jpeg" alt="量産型4" width="100%"></td> </tr> </table>
+
 ``
 量産型のメイクに仕上げている。アイシャドウは柔らかなピンクブラウン系でまとめている。涙袋には細かなパールのハイライトを入れて立体感を出している。チークは頬の高い位置に丸く入れている。唇は明るいピンク系のツヤリップに仕上げている。
 ``
@@ -188,6 +194,8 @@
 ```
 
 ### ■ギャル系
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-2-04_gal_01.jpeg" alt="ギャル系1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-04_gal_02.jpeg" alt="ギャル系2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-04_gal_03.jpeg" alt="ギャル系3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-04_gal_04.jpeg" alt="ギャル系4" width="100%"></td> </tr> </table>
 
 ``
 ギャル系のメイクに仕上げている。アイラインは目の輪郭を強調するようにやや太めに引いている。まつ毛は長く濃く見えるように仕上げている。眉はやや太めで存在感のある形に整えている。下まぶたには細かなラメを入れている。唇はベージュ系のツヤリップに仕上げている。
@@ -199,6 +207,8 @@
 
 ### ■モード系
 
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-2-05_mode_01.jpeg" alt="モード系1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-05_mode_02.jpeg" alt="モード系2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-05_mode_03.jpeg" alt="モード系3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-05_mode_04.jpeg" alt="モード系4" width="100%"></td> </tr> </table>
+
 ``
 モード系のメイクに仕上げている。肌は余分なツヤを抑えたなめらかな質感に整えている。アイラインは黒でシャープに引いて目元を強調している。眉は直線的ですっきりした形に整えている。唇は深い赤やボルドーなど発色の強い色で仕上げている。
 ``
@@ -208,6 +218,8 @@
 ```
 
 ### ■姫系
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-2-06_hime_01.jpeg" alt="姫系1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-06_hime_02.jpeg" alt="姫系2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-06_hime_03.jpeg" alt="姫系3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-06_hime_04.jpeg" alt="姫系4" width="100%"></td> </tr> </table>
 
 ``
 姫系のメイクに仕上げている。肌はきめ細かく明るいツヤ肌に整えている。アイシャドウは淡いピンク系に細かなパールを加えている。チークは頬の高い位置に丸く入れて上気した印象にしている。唇は明るいピンク系のグロスリップに仕上げている。
@@ -219,22 +231,14 @@
 
 ### ■和装
 
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-2-07_wasou_01.jpeg" alt="和装1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-07_wasou_02.jpeg" alt="和装2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-07_wasou_03.jpeg" alt="和装3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-2-07_wasou_04.jpeg" alt="和装4" width="100%"></td> </tr> </table>
+
 ``
 和装に合うメイクに仕上げている。肌はきめ細かく均一な質感に整えている。眉は自然な形に整えている。目元は落ち着いた色で控えめに仕上げている。頬には淡い血色感を添えている。唇は赤みのあるリップで端正に仕上げている。
 ``
 
 ```copy
 和装に合うメイクに仕上げている。肌はきめ細かく均一な質感に整えている。眉は自然な形に整えている。目元は落ち着いた色で控えめに仕上げている。頬には淡い血色感を添えている。唇は赤みのあるリップで端正に仕上げている。
-```
-
-### ■舞妓風
-
-``
-舞妓風の白塗りメイクに仕上げている。顔全体を白いおしろいで均一に覆っている。眉は細く黒く描いている。目元には赤い色を控えめに加えている。唇は小さく形を整え、鮮やかな紅を差している。
-``
-
-```copy
-舞妓風の白塗りメイクに仕上げている。顔全体を白いおしろいで均一に覆っている。眉は細く黒く描いている。目元には赤い色を控えめに加えている。唇は小さく形を整え、鮮やかな紅を差している。
 ```
 
 ---
