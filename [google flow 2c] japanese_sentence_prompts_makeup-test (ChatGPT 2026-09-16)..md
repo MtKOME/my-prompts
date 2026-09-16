@@ -42,7 +42,7 @@
 <tr>
 <td width="25%"><img src="images/makeup/01_natural_01.jpeg" alt="ナチュラル1" width="100%"></td><td width="25%"><img src="images/makeup/01_natural_02.jpeg" alt="ナチュラル2" width="100%"></td><td width="25%"><img src="images/makeup/01_natural_03.jpeg" alt="ナチュラル3" width="100%"></td><td width="25%"><img src="images/makeup/01_natural_04.jpeg" alt="ナチュラル4" width="100%"></td>
 </tr>
-
+</table>
 
 ``
 ナチュラルな印象のメイクに仕上げている。肌は厚塗り感を抑え、素肌の質感と自然なツヤを残している。眉は元の形と毛流れをそのまま活かし、最小限の色でなぞっている。目元は肌になじむ色を薄くのせ、まぶた本来の陰影を目立たせすぎないようにしている。頬にはごく薄くチークを重ね、素の血色を邪魔しない程度に留めている。唇は地の色を活かした自然な血色感のあるリップにしている。
