@@ -32,7 +32,11 @@
 ## 印象別メイク
 
 ### ■ナチュラル
-
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/01_natural_01.jpeg" alt="ナチュラル1" width="100%"></td><td width="25%"><img src="images/makeup/01_natural_02.jpeg" alt="ナチュラル2" width="100%"></td><td width="25%"><img src="images/makeup/01_natural_03.jpeg" alt="ナチュラル3" width="100%"></td><td width="25%"><img src="images/makeup/01_natural_04.jpeg" alt="ナチュラル4" width="100%"></td>
+</tr>
+</table>
 > **意味**:メイクを作り込んだ感じを抑え、素肌や本来の顔立ちが自然に見える状態。
 
 > **狙い**:肌の質感や自然な血色、顔立ちの陰影を活かし、化粧をしていても「素の魅力」が前面に出る仕上がりにする。
