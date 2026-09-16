@@ -291,46 +291,110 @@
 ### 目元
 
 #### ■涙袋メイク
+
+<table>
+<tr>
+<td width="25%"><img src="images/makeup2/mkup-3-2-01_namidabukuro_01.jpeg" alt="涙袋メイク1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-01_namidabukuro_02.jpeg" alt="涙袋メイク2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-01_namidabukuro_03.jpeg" alt="涙袋メイク3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-01_namidabukuro_04.jpeg" alt="涙袋メイク4" width="100%"></td>
+</tr>
+</table>
+
 ```text
 涙袋のふくらみを自然に強調し、明るいハイライトを入れて立体感を出している。
 ```
 
 #### ■囲みメイク
+
+<table>
+<tr>
+<td width="25%"><img src="images/makeup2/mkup-3-2-02_kakomi_01.jpeg" alt="囲みメイク1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-02_kakomi_02.jpeg" alt="囲みメイク2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-02_kakomi_03.jpeg" alt="囲みメイク3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-02_kakomi_04.jpeg" alt="囲みメイク4" width="100%"></td>
+</tr>
+</table>
+
 ```text
 上下のまぶたにアイラインとアイシャドウを入れ、目元を囲むように強調している。
 ```
 
 #### ■たれ目メイク
+
+<table>
+<tr>
+<td width="25%"><img src="images/makeup2/mkup-3-2-03_tareme_01.jpeg" alt="たれ目メイク1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-03_tareme_02.jpeg" alt="たれ目メイク2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-03_tareme_03.jpeg" alt="たれ目メイク3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-03_tareme_04.jpeg" alt="たれ目メイク4" width="100%"></td>
+</tr>
+</table>
+
 ```text
 アイラインを目尻からやや下向きに延ばし、たれ目に見える柔らかな印象に仕上げている。
 ```
 
 #### ■つり目メイク
+
+<table>
+<tr>
+<td width="25%"><img src="images/makeup2/mkup-3-2-04_tsurime_01.jpeg" alt="つり目メイク1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-04_tsurime_02.jpeg" alt="つり目メイク2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-04_tsurime_03.jpeg" alt="つり目メイク3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-04_tsurime_04.jpeg" alt="つり目メイク4" width="100%"></td>
+</tr>
+</table>
+
 ```text
 アイラインを目尻から斜め上向きに延ばし、目元をシャープに仕上げている。
 ```
 
 #### ■粘膜ライナー
+
+<table>
+<tr>
+<td width="25%"><img src="images/makeup2/mkup-3-2-05_nenmaku_01.jpeg" alt="粘膜ライナー1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-05_nenmaku_02.jpeg" alt="粘膜ライナー2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-05_nenmaku_03.jpeg" alt="粘膜ライナー3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-05_nenmaku_04.jpeg" alt="粘膜ライナー4" width="100%"></td>
+</tr>
+</table>
+
 ```text
 下まぶたの粘膜部分に薄くラインを入れ、目元の輪郭を自然に強調している。
 ```
 
 #### ■跳ね上げライン
+
+<table>
+<tr>
+<td width="25%"><img src="images/makeup2/mkup-3-2-06_haneage_01.jpeg" alt="跳ね上げライン1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-06_haneage_02.jpeg" alt="跳ね上げライン2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-06_haneage_03.jpeg" alt="跳ね上げライン3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-06_haneage_04.jpeg" alt="跳ね上げライン4" width="100%"></td>
+</tr>
+</table>
+
 ```text
 アイラインの目尻を斜め上に向かって細く跳ね上げている。
 ```
 
 #### ■ラメアイメイク
+
+<table>
+<tr>
+<td width="25%"><img src="images/makeup2/mkup-3-2-07_lame_01.jpeg" alt="ラメアイメイク1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-07_lame_02.jpeg" alt="ラメアイメイク2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-07_lame_03.jpeg" alt="ラメアイメイク3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-07_lame_04.jpeg" alt="ラメアイメイク4" width="100%"></td>
+</tr>
+</table>
+
 ```text
 まぶたの中央に細かなラメをのせ、目元に繊細な輝きを加えている。
 ```
 
 #### ■ブラウンアイシャドウ
+
+<table>
+<tr>
+<td width="25%"><img src="images/makeup2/mkup-3-2-08_brownshadow_01.jpeg" alt="ブラウンアイシャドウ1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-08_brownshadow_02.jpeg" alt="ブラウンアイシャドウ2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-08_brownshadow_03.jpeg" alt="ブラウンアイシャドウ3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-08_brownshadow_04.jpeg" alt="ブラウンアイシャドウ4" width="100%"></td>
+</tr>
+</table>
+
 ```text
 アイシャドウをベージュからブラウンの自然なグラデーションでまとめている。
 ```
 
 #### ■ピンクアイシャドウ
+
+<table>
+<tr>
+<td width="25%"><img src="images/makeup2/mkup-3-2-09_pinkshadow_01.jpeg" alt="ピンクアイシャドウ1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-09_pinkshadow_02.jpeg" alt="ピンクアイシャドウ2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-09_pinkshadow_03.jpeg" alt="ピンクアイシャドウ3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-2-09_pinkshadow_04.jpeg" alt="ピンクアイシャドウ4" width="100%"></td>
+</tr>
+</table>
+
+
 ```text
 アイシャドウを淡いピンクからローズ系の色で柔らかくまとめている。
 ```
