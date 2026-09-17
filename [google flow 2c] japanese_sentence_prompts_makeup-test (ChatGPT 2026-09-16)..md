@@ -499,21 +499,33 @@
 ### 肌
 
 #### ■ツヤ肌
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-05_01_tsuyahada_01.jpeg" alt="ツヤ肌1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-05_01_tsuyahada_02.jpeg" alt="ツヤ肌2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-05_01_tsuyahada_03.jpeg" alt="ツヤ肌3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-05_01_tsuyahada_04.jpeg" alt="ツヤ肌4" width="100%"></td> </tr> </table>
+
 ```
 肌はガラスのような透明感のあるツヤ肌に仕上げている。頬骨と鼻筋には細かなハイライトを入れている。
 ```
 
 #### ■セミマット肌
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-05_02_semimattehada_01.jpeg" alt="セミマット肌1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-05_02_semimattehada_02.jpeg" alt="セミマット肌2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-05_02_semimattehada_03.jpeg" alt="セミマット肌3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-05_02_semimattehada_04.jpeg" alt="セミマット肌4" width="100%"></td> </tr> </table>
+
 ```text
 肌の質感をなめらかなセミマットに仕上げ、わずかな自然なツヤを残している。
 ```
 
 #### ■陶器肌
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-05_03_toukihada_01.jpeg" alt="陶器肌1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-05_03_toukihada_02.jpeg" alt="陶器肌2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-05_03_toukihada_03.jpeg" alt="陶器肌3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-05_03_toukihada_04.jpeg" alt="陶器肌4" width="100%"></td> </tr> </table>
+
 ```text
 肌をなめらかに整え、毛穴や肌の凹凸が目立たない均一な質感に仕上げている。
 ```
 
 #### ■透明感のある肌
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-05_04_toumeikanhada_01.jpeg" alt="透明感のある肌1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-05_04_toumeikanhada_02.jpeg" alt="透明感のある肌2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-05_04_toumeikanhada_03.jpeg" alt="透明感のある肌3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-05_04_toumeikanhada_04.jpeg" alt="透明感のある肌4" width="100%"></td> </tr> </table>
+
 ```text
 肌を明るく均一に整え、薄いベールをかけたような透明感のある仕上がりにしている。
 ```
