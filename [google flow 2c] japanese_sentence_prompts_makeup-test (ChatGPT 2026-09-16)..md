@@ -533,16 +533,25 @@
 ### チーク
 
 #### ■囲みチーク
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-6_01_kakomicheek_01.jpeg" alt="囲みチーク1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-6_01_kakomicheek_02.jpeg" alt="囲みチーク2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-6_01_kakomicheek_03.jpeg" alt="囲みチーク3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-6_01_kakomicheek_04.jpeg" alt="囲みチーク4" width="100%"></td> </tr> </table>
+
 ```text
 目の下から頬にかけてチークを広めに入れ、目元を囲むような血色感を出している。
 ```
 
 #### ■ワンストロークチーク
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-6_02_onestrokecheek_01.jpeg" alt="ワンストロークチーク1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-6_02_onestrokecheek_02.jpeg" alt="ワンストロークチーク2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-6_02_onestrokecheek_03.jpeg" alt="ワンストロークチーク3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-6_02_onestrokecheek_04.jpeg" alt="ワンストロークチーク4" width="100%"></td> </tr> </table>
+
 ```text
 頬骨に沿って斜め方向にチークを入れ、すっきりとした血色感を出している。
 ```
 
 #### ■アップルチーク
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-6_03_applecheek_01.jpeg" alt="アップルチーク1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-6_03_applecheek_02.jpeg" alt="アップルチーク2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-6_03_applecheek_03.jpeg" alt="アップルチーク3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-6_03_applecheek_04.jpeg" alt="アップルチーク4" width="100%"></td> </tr> </table>
+
 ```text
 頬の高い位置にチークを丸く入れ、明るく上気した印象に仕上げている。
 ```
