@@ -559,26 +559,41 @@
 ### リップ
 
 #### ■グラデーションリップ
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-7_01_gradationlip_01.jpeg" alt="グラデーションリップ1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-7_01_gradationlip_02.jpeg" alt="グラデーションリップ2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-7_01_gradationlip_03.jpeg" alt="グラデーションリップ3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-7_01_gradationlip_04.jpeg" alt="グラデーションリップ4" width="100%"></td> </tr> </table>
+
 ```text
 唇の内側に色を集中させ、外側に向かって淡くなるようにぼかしている。
 ```
 
 #### ■ティントリップ
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-7_02_tintlip_01.jpeg" alt="ティントリップ1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-7_02_tintlip_02.jpeg" alt="ティントリップ2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-7_02_tintlip_03.jpeg" alt="ティントリップ3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-7_02_tintlip_04.jpeg" alt="ティントリップ4" width="100%"></td> </tr> </table>
+
 ```text
 唇全体に自然な赤みが残るようなティントリップに仕上げている。
 ```
 
 #### ■オーバーリップ
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-7_03_overlip_01.jpeg" alt="オーバーリップ1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-7_03_overlip_02.jpeg" alt="オーバーリップ2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-7_03_overlip_03.jpeg" alt="オーバーリップ3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-7_03_overlip_04.jpeg" alt="オーバーリップ4" width="100%"></td> </tr> </table>
+
 ```text
 唇の輪郭よりわずかに外側まで色をのせ、唇を自然に大きく見せている。
 ```
 
 #### ■輪郭ぼかしリップ
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-7_04_rinkakubokasfilip_01.jpeg" alt="輪郭ぼかしリップ1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-7_04_rinkakubokasfilip_02.jpeg" alt="輪郭ぼかしリップ2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-7_04_rinkakubokasfilip_03.jpeg" alt="輪郭ぼかしリップ3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-7_04_rinkakubokasfilip_04.jpeg" alt="輪郭ぼかしリップ4" width="100%"></td> </tr> </table>
+
 ```text
 リップライナーで輪郭を強調せず、唇の境目を柔らかくぼかしている。
 ```
 
 #### ■マットリップ
+
+<table> <tr> <td width="25%"><img src="images/makeup2/mkup-3-7_05_mattelip_01.jpeg" alt="マットリップ1" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-7_05_mattelip_02.jpeg" alt="マットリップ2" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-7_05_mattelip_03.jpeg" alt="マットリップ3" width="100%"></td><td width="25%"><img src="images/makeup2/mkup-3-7_05_mattelip_04.jpeg" alt="マットリップ4" width="100%"></td> </tr> </table>
+
 ```text
 唇の光沢を抑え、なめらかなマット質感のリップに仕上げている。
 ```
