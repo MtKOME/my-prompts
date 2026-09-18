@@ -134,6 +134,12 @@
 
 > **狙い**: 直線的な眉やシャープなアイライン、落ち着いた色調を使い、顔立ちをすっきりと引き締めてクールな印象に整える。
 
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/07_cool_01.jpeg" alt="クール1" width="100%"></td><td width="25%"><img src="images/makeup/07_cool_02.jpeg" alt="クール2" width="100%"></td><td width="25%"><img src="images/makeup/07_cool_03.jpeg" alt="クール3" width="100%"></td><td width="25%"><img src="images/makeup/07_cool_04.jpeg" alt="クール4" width="100%"></td>
+</tr>
+</table>
+
 `すっきりと整えた肌に、グレーやブラウン系のアイシャドウ、シャープなアイライン、自然に整えた眉、控えめなチークとベージュやローズ系のリップを合わせた、凛としたクールなメイク。`
 
 ```copy
@@ -146,6 +152,12 @@
 > **意味**: 目元や唇、顔立ちの立体感を強調し、華やかで存在感のある印象を与えるメイク。
 
 > **狙い**: 艶のある肌、強調したまつ毛、立体的なアイメイク、深みのあるリップを組み合わせ、顔立ちのメリハリと華やかさを強く見せる。
+
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/08_glamorous_01.jpeg" alt="グラマラス1" width="100%"></td><td width="25%"><img src="images/makeup/08_glamorous_02.jpeg" alt="グラマラス2" width="100%"></td><td width="25%"><img src="images/makeup/08_glamorous_03.jpeg" alt="グラマラス3" width="100%"></td><td width="25%"><img src="images/makeup/08_glamorous_04.jpeg" alt="グラマラス4" width="100%"></td>
+</tr>
+</table>
 
 `艶のある肌に、立体的な陰影をつけたアイメイク、強調したまつ毛、自然な立体感のあるチークと深みのあるリップを合わせた、華やかで存在感のあるグラマラスなメイク。`
 
@@ -160,21 +172,16 @@
 
 > **狙い**: 滑らかに整えた肌、くっきりしたアイライン、赤系のリップなど、時代を感じさせる定番的な要素を組み合わせ、クラシックな雰囲気を作る。
 
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/09_retro_01.jpeg" alt="レトロ1" width="100%"></td><td width="25%"><img src="images/makeup/09_retro_02.jpeg" alt="レトロ2" width="100%"></td><td width="25%"><img src="images/makeup/09_retro_03.jpeg" alt="レトロ3" width="100%"></td><td width="25%"><img src="images/makeup/09_retro_04.jpeg" alt="レトロ4" width="100%"></td>
+</tr>
+</table>
+
 `滑らかに整えた肌に、自然な陰影をつけたアイシャドウ、くっきりとしたアイライン、整った眉、控えめなチークとクラシックな赤いリップを合わせた、懐かしく洗練されたレトロなメイク。`
 
 ```copy id="7f2kqm"
 滑らかに整えた肌に、自然な陰影をつけたアイシャドウ、くっきりとしたアイライン、整った眉、控えめなチークとクラシックな赤いリップを合わせた、懐かしく洗練されたレトロなメイク。
-```
-
-
-### ■エレガント
-
-> **意味**:落ち着いた華やかさと繊細な整い方を感じさせる、洗練された印象。
-
-> **狙い**:肌の艶、繊細な目元、深みのある唇を調和させ、派手すぎず品のある華やかさを作る。
-
-```text
-エレガントな印象のメイクに仕上げている。肌は自然な艶のあるなめらかな質感に整えている。眉は形を整えながら柔らかく仕上げている。目元は繊細なパール感のあるアイシャドウで陰影をつけ、アイラインを細く整えている。頬は落ち着いた色のチークを薄く入れている。唇は深みのあるローズやボルドー系の色で上品に仕上げている。
 ```
 
 ### ■アンニュイ 変更分
@@ -195,6 +202,12 @@
 
 > **狙い**: 丸みのある目元や頬の血色感、明るいピンクやコーラル系の色を使い、顔全体を柔らかく愛らしい印象に整える。
 
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/10_cute_01.jpeg" alt="キュート1" width="100%"></td><td width="25%"><img src="images/makeup/10_cute_02.jpeg" alt="キュート2" width="100%"></td><td width="25%"><img src="images/makeup/10_cute_03.jpeg" alt="キュート3" width="100%"></td><td width="25%"><img src="images/makeup/10_cute_04.jpeg" alt="キュート4" width="100%"></td>
+</tr>
+</table>
+
 `明るく整えた肌に、丸みを意識したアイメイク、ふんわりとした血色感のあるチーク、つやのあるピンクやコーラル系のリップを合わせた、あどけなく可愛らしいキュートなメイク。`
 
 ```copy
@@ -206,6 +219,12 @@
 > **意味**: 派手さを抑え、清潔感ときちんとした印象を重視した、仕事やフォーマルな場面に適したメイク。
 
 > **狙い**: 肌を整え、ブラウン系の控えめなアイメイクとベージュ系のリップを組み合わせ、自然で落ち着いたきちんと感を作る。
+
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/12_office_01.jpeg" alt="オフィス1" width="100%"></td><td width="25%"><img src="images/makeup/12_office_02.jpeg" alt="オフィス2" width="100%"></td><td width="25%"><img src="images/makeup/12_office_03.jpeg" alt="オフィス3" width="100%"></td><td width="25%"><img src="images/makeup/12_office_04.jpeg" alt="オフィス4" width="100%"></td>
+</tr>
+</table>
 
 `清潔感のある肌に、控えめなブラウン系アイシャドウと自然なアイライン、整った眉、淡い血色感のチークとベージュ系のリップを合わせた、きちんと感のあるオフィスメイク。`
 
@@ -219,6 +238,12 @@
 
 > **狙い**: グレーやブラウンなどの深みのある色を目元に重ね、境目を柔らかくぼかすことで、目元の陰影と奥行きを強調する。
 
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/13_smoky_01.jpeg" alt="スモーキー1" width="100%"></td><td width="25%"><img src="images/makeup/13_smoky_02.jpeg" alt="スモーキー2" width="100%"></td><td width="25%"><img src="images/makeup/13_smoky_03.jpeg" alt="スモーキー3" width="100%"></td><td width="25%"><img src="images/makeup/13_smoky_04.jpeg" alt="スモーキー4" width="100%"></td>
+</tr>
+</table>
+
 `グレーやブラウンなどの深みのあるアイシャドウを目元にぼかして陰影をつけ、アイラインとまつ毛で目の輪郭を引き締め、チークとリップは落ち着いた色味でまとめたスモーキーメイク。`
 
 ```copy
@@ -230,6 +255,12 @@
 > **意味**: 夏らしい明るさや軽やかさ、健康的な印象を感じさせるメイク。
 
 > **狙い**: 軽やかな肌感とオレンジやコーラル系の血色感、みずみずしいリップなどを組み合わせ、暑い季節に合う爽やかな印象に整える。
+
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/14_summer_01.jpeg" alt="サマー1" width="100%"></td><td width="25%"><img src="images/makeup/14_summer_02.jpeg" alt="サマー2" width="100%"></td><td width="25%"><img src="images/makeup/14_summer_03.jpeg" alt="サマー3" width="100%"></td><td width="25%"><img src="images/makeup/14_summer_04.jpeg" alt="サマー4" width="100%"></td>
+</tr>
+</table>
 
 `自然なツヤを残した軽やかな肌に、明るいベージュやコーラル系のアイシャドウ、健康的な血色感のチーク、つやのあるオレンジやコーラル系のリップを合わせた、爽やかなサマーメイク。`
 
@@ -243,6 +274,12 @@
 
 > **狙い**: 目元に陰影をつけて立体感を出し、アイラインやまつ毛、リップの存在感を高めることで、大人っぽく色気のある印象に整える。
 
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/16_sexy_01.jpeg" alt="セクシー1" width="100%"></td><td width="25%"><img src="images/makeup/16_sexy_02.jpeg" alt="セクシー2" width="100%"></td><td width="25%"><img src="images/makeup/16_sexy_03.jpeg" alt="セクシー3" width="100%"></td><td width="25%"><img src="images/makeup/16_sexy_04.jpeg" alt="セクシー4" width="100%"></td>
+</tr>
+</table>
+
 `艶のある肌に、深みのあるアイシャドウで立体的な陰影をつけ、目元を強調するアイラインとまつ毛、自然な立体感のあるチーク、艶やかな赤やローズ系のリップを合わせた、色気のあるセクシーなメイク。`
 
 ```copy id="n8v3kc"
@@ -254,6 +291,12 @@
 > **意味**: 清らかさや上品さ、幸福感を感じさせる、結婚式などの特別な場面に合わせたメイク。
 
 > **狙い**: 透明感のある肌に、パール感のある目元と自然な血色感を加え、華やかさを保ちながら清潔感と上品さを両立させる。
+
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/18_bridal_01.jpeg" alt="ブライダル1" width="100%"></td><td width="25%"><img src="images/makeup/18_bridal_02.jpeg" alt="ブライダル2" width="100%"></td><td width="25%"><img src="images/makeup/18_bridal_03.jpeg" alt="ブライダル3" width="100%"></td><td width="25%"><img src="images/makeup/18_bridal_04.jpeg" alt="ブライダル4" width="100%"></td>
+</tr>
+</table>
 
 `透明感のある肌に、繊細なパール感のあるアイシャドウ、自然に整えた眉、控えめなアイラインとまつ毛、淡いピンクのチークとピンクベージュの艶やかなリップを合わせた、清らかで上品なブライダルメイク。`
 
@@ -327,6 +370,12 @@
 
 > **狙い**: 明るい肌にピンク系のアイメイクとチーク、ツヤのあるリップを合わせ、目元から頬、唇まで統一感のある甘い雰囲気に整える。
 
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/36_ryosangata_01.jpeg" alt="量産型1" width="100%"></td><td width="25%"><img src="images/makeup/36_ryosangata_02.jpeg" alt="量産型2" width="100%"></td><td width="25%"><img src="images/makeup/36_ryosangata_03.jpeg" alt="量産型3" width="100%"></td><td width="25%"><img src="images/makeup/36_ryosangata_04.jpeg" alt="量産型4" width="100%"></td>
+</tr>
+</table>
+
 `明るく整えた肌に、ピンク系のアイシャドウと丸みのあるアイメイク、ふんわりとしたピンクのチーク、ツヤのあるピンク系のリップを合わせた、甘く可愛らしい量産型メイク。`
 
 ```copy
@@ -339,6 +388,12 @@
 > **意味**: 明るさや可愛らしさよりも、深い色調と強いコントラストで耽美でダークな印象を与えるメイク。
 
 > **狙い**: 明るく均一な肌と濃いアイライン、深い色のリップを組み合わせ、肌と目元・唇のコントラストを強調してゴシックな雰囲気に整える。
+
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/19_gothic_01.jpeg" alt="ゴシック1" width="100%"></td><td width="25%"><img src="images/makeup/19_gothic_02.jpeg" alt="ゴシック2" width="100%"></td><td width="25%"><img src="images/makeup/19_gothic_03.jpeg" alt="ゴシック3" width="100%"></td><td width="25%"><img src="images/makeup/19_gothic_04.jpeg" alt="ゴシック4" width="100%"></td>
+</tr>
+</table>
 
 `明るく均一に整えた肌に、深みのあるアイシャドウと濃く引いたアイライン、存在感のあるまつ毛、控えめなチーク、深いワインレッドやボルドー系のリップを合わせた、耽美でダークなゴシックメイク。`
 
@@ -414,20 +469,16 @@
 
 > **狙い**: 均一でツヤのある肌、直線的な眉、グラデーションのある目元、ぼかしたリップなどを組み合わせ、韓国風の洗練された印象に整える。
 
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/11_kankokjufuu_01.jpeg" alt="韓国風1" width="100%"></td><td width="25%"><img src="images/makeup/11_kankokjufuu_02.jpeg" alt="韓国風2" width="100%"></td><td width="25%"><img src="images/makeup/11_kankokjufuu_03.jpeg" alt="韓国風3" width="100%"></td><td width="25%"><img src="images/makeup/11_kankokjufuu_04.jpeg" alt="韓国風4" width="100%"></td>
+</tr>
+</table>
+
 `均一に整えたツヤのある肌に、直線的に整えた眉、グラデーションのあるアイシャドウと自然な涙袋、控えめなアイライン、ぼかしたティントリップを合わせた韓国風メイク。`
 
 ```copy id="p7c2vn"
 均一に整えたツヤのある肌に、直線的に整えた眉、グラデーションのあるアイシャドウと自然な涙袋、控えめなアイライン、ぼかしたティントリップを合わせた韓国風メイク。
-```
-
-### ■中華系
-
-> **意味**:均一で立体感のある肌と、はっきりした眉・目元・唇を組み合わせた存在感のある印象。
-
-> **狙い**:肌を整えたうえで眉や目元の輪郭を明確にし、陰影とリップの発色で顔全体を引き締める。
-
-```text
-中華系の印象のメイクに仕上げている。肌は均一でなめらかな質感に整え、自然な陰影を加えて立体感を出している。眉は形をはっきり整え、目元はアイラインと濃淡のあるアイシャドウで輪郭を強調している。頬は控えめな色で立体感を補っている。唇は発色のよい赤や深みのある色で輪郭を整えている。
 ```
 
 ### ■中華系 変更分
@@ -435,6 +486,12 @@
 > **意味**: 中国の美容・メイクトレンドに見られる、くっきりとした目元や眉、立体感のある顔立ちを特徴とするメイク。
 
 > **狙い**: 均一に整えた肌に、輪郭のはっきりした眉と目元、自然な陰影による立体感、深みのあるリップを組み合わせ、顔立ちを明確で印象的に見せる。
+
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/37_chukakei_01.jpeg" alt="中華系1" width="100%"></td><td width="25%"><img src="images/makeup/37_chukakei_02.jpeg" alt="中華系2" width="100%"></td><td width="25%"><img src="images/makeup/37_chukakei_03.jpeg" alt="中華系3" width="100%"></td><td width="25%"><img src="images/makeup/37_chukakei_04.jpeg" alt="中華系4" width="100%"></td>
+</tr>
+</table>
 
 `均一に整えた肌に、はっきりと輪郭を整えた眉、深みのあるアイシャドウとくっきりしたアイライン、立体感を強調した陰影、落ち着いた色味のチークと深みのある赤やローズ系のリップを合わせた中華系メイク。`
 
