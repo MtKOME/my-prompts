@@ -581,7 +581,13 @@
 
 ### 目元
 
-#### ■デカ目
+#### ■デカ目 追加
+
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/28_dekame_01.jpeg" alt="デカ目1" width="100%"></td><td width="25%"><img src="images/makeup/28_dekame_02.jpeg" alt="デカ目2" width="100%"></td><td width="25%"><img src="images/makeup/28_dekame_03.jpeg" alt="デカ目3" width="100%"></td><td width="25%"><img src="images/makeup/28_dekame_04.jpeg" alt="デカ目4" width="100%"></td>
+</tr>
+</table>
 
 ```text
 アイライン、まつ毛、涙袋を組み合わせて目元を強調し、目を大きく印象的に見せている。
