@@ -190,6 +190,12 @@
 
 > **狙い**: くすみ系の色や柔らかな陰影、控えめな血色感を使い、目元や唇を強く主張させず、曖昧で静かな雰囲気に整える。
 
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/17_ennui_01.jpeg" alt="アンニュイ1" width="100%"></td><td width="25%"><img src="images/makeup/17_ennui_02.jpeg" alt="アンニュイ2" width="100%"></td><td width="25%"><img src="images/makeup/17_ennui_03.jpeg" alt="アンニュイ3" width="100%"></td><td width="25%"><img src="images/makeup/17_ennui_04.jpeg" alt="アンニュイ4" width="100%"></td>
+</tr>
+</table>
+
 `くすみのあるモーヴやブラウン系のアイシャドウで柔らかな陰影をつけ、アイラインやまつ毛は控えめに整え、チークとリップも淡い血色感に抑えた、気だるく儚げなアンニュイメイク。`
 
 ```copy id="k4m8tw"
