@@ -327,6 +327,12 @@
 
 > **狙い**: 明るく整えた肌に、丸みを意識した目元、強調したまつ毛や涙袋、明るい血色感のチークとツヤのあるリップを組み合わせ、表情を華やかに見せる。
 
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/20_idol_01.jpeg" alt="アイドル風1" width="100%"></td><td width="25%"><img src="images/makeup/20_idol_02.jpeg" alt="アイドル風2" width="100%"></td><td width="25%"><img src="images/makeup/20_idol_03.jpeg" alt="アイドル風3" width="100%"></td><td width="25%"><img src="images/makeup/20_idol_04.jpeg" alt="アイドル風4" width="100%"></td>
+</tr>
+</table>
+
 `明るく整えた肌に、丸みのあるアイメイクと強調したまつ毛、自然にぷっくりと見せた涙袋、明るい血色感のチークとツヤのあるピンクやコーラル系のリップを合わせた、華やかで可愛らしいアイドル風メイク。`
 
 ```copy
@@ -350,6 +356,12 @@
 > **意味**: 白く明るい肌に赤みのある目元や強調した涙袋などを組み合わせ、甘さの中に少し影のある印象を与えるメイク。
 
 > **狙い**: 明るく均一な肌、赤みを含んだ目元、強調した涙袋、血色感のあるリップを組み合わせ、目元の存在感と独特の甘さを強調する。
+
+<table>
+<tr>
+<td width="25%"><img src="images/makeup/35_jiraikei_01.jpeg" alt="地雷系1" width="100%"></td><td width="25%"><img src="images/makeup/35_jiraikei_02.jpeg" alt="地雷系2" width="100%"></td><td width="25%"><img src="images/makeup/35_jiraikei_03.jpeg" alt="地雷系3" width="100%"></td><td width="25%"><img src="images/makeup/35_jiraikei_04.jpeg" alt="地雷系4" width="100%"></td>
+</tr>
+</table>
 
 `明るく均一に整えた肌に、赤みのあるアイシャドウで目元に陰影をつけ、強調した涙袋と存在感のあるまつ毛、淡い血色感のチークと赤みのあるリップを合わせた地雷系メイク。`
 
