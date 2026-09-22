@@ -7,6 +7,7 @@
 ---
 #### ┌1997 ANABUKI 遠藤 型
 
+<table>
 <tr>
 <td width="25%"><img src="images/hairstyle/hair_001_97ANBK_end_01.jpeg" alt="1997 ANABUKI 遠藤 型1" width="100%"></td><td width="25%"><img src="images/hairstyle/hair_001_97ANBK_end_02.jpeg" alt="1997 ANABUKI 遠藤 型2" width="100%"></td><td width="25%"><img src="images/hairstyle/hair_001_97ANBK_end_03.jpeg" alt="1997 ANABUKI 遠藤 型3" width="100%"></td><td width="25%"><img src="images/hairstyle/hair_001_97ANBK_end_04.jpeg" alt="1997 ANABUKI 遠藤 型4" width="100%"></td>
 </tr>
