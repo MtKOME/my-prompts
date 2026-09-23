@@ -79,5 +79,16 @@
 根元を立ち上げたサイドパートのボリューミーで毛先を顎から上でまっすぐ水平に揃えたワンレンボブ。
 ```
 
+#### ┣1993 CBN 杉浦 型
+
+<table>
+<tr>
+<td width="25%"><img src="images/hairstyle/hair_007_93CBN_sgur_01.jpeg" alt="1993 CABIN杉浦 型1" width="100%"></td><td width="25%"><img src="images/hairstyle/hair_007_93CBN_sgur_02.jpeg" alt="1993 CABIN杉浦 型2" width="100%"></td><td width="25%"><img src="images/hairstyle/hair_007_93CBN_sgur_03.jpeg" alt="1993 CABIN杉浦 型3" width="100%"></td><td width="25%"><img src="images/hairstyle/hair_007_93CBN_sgur_04.jpeg" alt="1993 CABIN杉浦 型4" width="100%"></td>
+</tr>
+</table>
+
+```
+シースルーバング、白い縁がある鮮やかな赤の細く短めのリボン付きのハーフアップ、水平にボリュームがある肩くらいまでの長さの後ろ髪。
+```
 ---
 
