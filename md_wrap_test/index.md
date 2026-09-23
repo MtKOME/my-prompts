@@ -1,8 +1,7 @@
 # Markdown 折り返しテスト
 
-<link rel="stylesheet" href="style.css">
-<script src="script.js"></script>
-
+<link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+<script src="{{ '/script.js' | relative_url }}"></script>
 ## テスト1
 
 ```text
