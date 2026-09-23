@@ -70,13 +70,13 @@
 #### ┣1992 WOWOW 杉浦 型
 
 <table>
-<tr width="75%">
-<td width="25%"><img src="images/hairstyle/hair_005_97ECLPS_isgr_01.jpeg" alt="1997 ECLIPSE 石黒 型1" width="100%"></td><td width="25%"><img src="images/hairstyle/hair_005_97ECLPS_isgr_02.jpeg" alt="1997 ECLIPSE 石黒 型2" width="100%"></td><td width="25%"><img src="images/hairstyle/hair_005_97ECLPS_isgr_03.jpeg" alt="1997 ECLIPSE 石黒 型3" width="100%"></td><td width="25%"><img src="images/hairstyle/hair_005_97ECLPS_isgr_04.jpeg" alt="1997 ECLIPSE 石黒 型4" width="100%"></td>
+<tr>
+<td width="25%"><img src="images/hairstyle/hair_006_92WOWOW_sgur_01.jpeg" alt="1992 WOWOW 杉浦 型1" width="100%"></td><td width="25%"><img src="images/hairstyle/hair_006_92WOWOW_sgur_02.jpeg" alt="1992 WOWOW 杉浦 型2" width="100%"></td><td width="25%"><img src="images/hairstyle/hair_006_92WOWOW_sgur_03.jpeg" alt="1992 WOWOW 杉浦 型3" width="100%"></td><td width="25%"><img src="images/hairstyle/hair_006_92WOWOW_sgur_04.jpeg" alt="1992 WOWOW 杉浦 型4" width="100%"></td>
 </tr>
 </table>
 
 ```
-根元を立ち上げたサイドパートのボリューミーで毛先をカールさせないワンレンボブ。
+根元を立ち上げたサイドパートのボリューミーで毛先を顎から上でまっすぐ水平に揃えたワンレンボブ。
 ```
 
 ---
