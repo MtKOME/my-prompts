@@ -1,11 +1,11 @@
-## [Google Flow] Sentence Prompt 髪型のメモ編
+# [Google Flow] Sentence Prompt 髪型のメモ編
 
 ### 目的
 
 とりあえず、試した**髪型のセンテンスプロンプトのプリセット**を置いとくところ。項目が「わかるやつだけわかればいい仕様」だったりと個人的嗜好強めですが、そこはまぁ。 
 
 ---
-### 髪型のメモ
+## 髪型のメモ (プリセット)
 
 #### ┣1997 ANABUKI 遠藤 型
 
@@ -90,9 +90,22 @@
 ```
 シースルーバング、白い縁がある鮮やかな赤の細く短めのリボン付きのハーフアップ、水平にボリュームがある肩くらいまでの長さの後ろ髪。
 ```
+
+#### ┣1995 KANEKO 近藤 型
+
+<table>
+<tr>
+<td width="25%"><img src="images/hairstyle/hair_007_93CBN_sgur_01.jpeg" alt="1993 CABIN杉浦 型1" width="100%"></td><td width="25%"><img src="images/hairstyle/hair_007_93CBN_sgur_02.jpeg" alt="1993 CABIN杉浦 型2" width="100%"></td><td width="25%"><img src="images/hairstyle/hair_007_93CBN_sgur_03.jpeg" alt="1993 CABIN杉浦 型3" width="100%"></td><td width="25%"><img src="images/hairstyle/hair_007_93CBN_sgur_04.jpeg" alt="1993 CABIN杉浦 型4" width="100%"></td>
+</tr>
+</table>
+
+```
+ベリーショート、サイドパートで、斜めに流し、額を隠した斜め流し前髪。
+```
+
 ---
 
-### 前髪
+## 前髪をつくる
 
 #### ┣シースルーバング
 ```
@@ -147,7 +160,7 @@
 
 #### ┣斜め・流し前髪
 ```
-前髪を斜めに流し、額が見えるようにした斜め・流し前髪。
+前髪を斜めに流し、額が見えるようにした斜め流し前髪。
 ```
 
 #### ┣サイドバング
