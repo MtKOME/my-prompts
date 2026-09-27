@@ -98,7 +98,9 @@
 <td width="25%"><img src="images/hairstyle/hair_007_93CBN_sgur_01.jpeg" alt="1993 CABIN杉浦 型1" width="100%"></td><td width="25%"><img src="images/hairstyle/hair_007_93CBN_sgur_02.jpeg" alt="1993 CABIN杉浦 型2" width="100%"></td><td width="25%"><img src="images/hairstyle/hair_007_93CBN_sgur_03.jpeg" alt="1993 CABIN杉浦 型3" width="100%"></td><td width="25%"><img src="images/hairstyle/hair_007_93CBN_sgur_04.jpeg" alt="1993 CABIN杉浦 型4" width="100%"></td>
 </tr>
 </table>
-
+`
+丸みを帯びたコンパクトなサイドパートのショートレイヤーカットで、トップから前髪にかけて長めに残しておでこを見せない濃いフルバングに、耳まわりと襟足は短くすっきりさせた髪型。
+`
 ```
 丸みを帯びたコンパクトなサイドパートのショートレイヤーカットで、トップから前髪にかけて長めに残しておでこを見せない濃いフルバングに、耳まわりと襟足は短くすっきりさせた髪型。
 ```
